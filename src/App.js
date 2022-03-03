@@ -17,7 +17,7 @@ const App = () => {
       <div>
         <Link to="/">Home</Link>
         <br></br>
-        <Link to="/strengtha">Strength A</Link>
+        <Link to="/strengtha">Strength A </Link>
         <br></br>
         <Link to="/strengthb">Strength B</Link>
       </div>
